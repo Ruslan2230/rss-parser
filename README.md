@@ -30,5 +30,5 @@
 ## Використання
 
 Парсер буде автоматично запускатися кожну годину, завантажуючи нові публікації з RSS стрічки та зберігаючи їх у базу даних.
-docker build -t rss-parser .
-docker run -p 3000:3000 rss-parser
+## docker build -t rss-parser .
+## docker run -p 3000:3000 rss-parser
